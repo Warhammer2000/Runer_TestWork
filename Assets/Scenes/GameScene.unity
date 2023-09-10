@@ -158,8 +158,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 300, y: -200}
-  m_SizeDelta: {x: 544.17, y: 349.6}
+  m_AnchoredPosition: {x: 237.0824, y: -114.43207}
+  m_SizeDelta: {x: 418.3348, y: 178.4642}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &319681500
 GameObject:
@@ -278,8 +278,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 130.3
-  m_fontSizeBase: 130.3
+  m_fontSize: 89.47
+  m_fontSizeBase: 89.47
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -822,7 +822,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   detectSwipeOnlyAfterRelease: 0
   minDistanceForSwipe: 20
-  useKeyboard: 0
+  useKeyboard: 1
 --- !u!1 &1040597593
 GameObject:
   m_ObjectHideFlags: 0
